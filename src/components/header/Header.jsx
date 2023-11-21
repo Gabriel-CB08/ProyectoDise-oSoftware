@@ -4,7 +4,11 @@ const Header = () => {
   return (
     <header>
       <img className="header__logo" src="https://www.svgrepo.com/show/530571/conversation.svg" alt="" />
-      <h1>Compralotodo</h1>
+      <div className="primary-nav">
+        <a href="https://compralotodo.netlify.app">Compralotodo    </a>
+        <a href="https://compralotodo.netlify.app">Contactanos   </a>
+        <a href="https://compralotodo.netlify.app">Historia   </a>
+      </div>
     </header>
   );
 };
