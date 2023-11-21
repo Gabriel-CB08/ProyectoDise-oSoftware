@@ -6,7 +6,7 @@ const Search = ({ value, onChangeData }) => {
       <input
         className="search__input"
         type="text"
-        placeholder="Enter product name"
+        placeholder="Ingrese nombre del producto"
         value={value}
         onChange={onChangeData}
       />

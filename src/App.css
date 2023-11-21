@@ -1,7 +1,7 @@
 :root {
   --soft-color: rgba(0, 0, 0, 0.5);
   --softer-color: rgba(0, 0, 0, 0.2);
-  --color-primary: rgb(0 216 255);
+  --color-primary: darkslategrey;
   --color-waring: green;
   --color-white: #fff;
   --color-danger: #ff0000;
@@ -26,7 +26,7 @@
   margin-bottom: 1rem;
   position: sticky;
   top: 0;
-  background-color: var(--color-white);
+  background-color: lightgray;
   z-index: 2;
 }
 .nav-right {
