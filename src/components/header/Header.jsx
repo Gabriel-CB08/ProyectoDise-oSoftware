@@ -7,7 +7,7 @@ const Header = () => {
       <div className="primary-nav">
         <a href="https://compralotodo.netlify.app">Compralotodo    </a>
         <a href="https://compralotodo.netlify.app">Contactanos   </a>
-        <a href="https://compralotodo.netlify.app">Gamersssss   </a>
+        <a href="https://handwritetranslate.netlify.app/">Gamersssss   </a>
       </div>
     </header>
   );
