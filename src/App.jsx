@@ -39,7 +39,6 @@ const App = () => {
   return (
     <div>
       {/* <Header /> */}
-
       <div className="body__container">
         <div className="nav">
           <Header />
